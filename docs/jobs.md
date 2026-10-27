@@ -10,11 +10,11 @@
 | Location | JUD. SĂLAJ, SAT RECEA COM. VÂRŞOLŢ, RECEA |
 | Website | [https://cemacon.ro](https://cemacon.ro) |
 | Careers | [https://cemacon.ro/cariere/](https://cemacon.ro/cariere/) |
-| Last Scraped | 2026-10-26 |
+| Last Scraped | 2026-10-27 |
 
 ## Current Job Listings (11)
 
-_Generated: 2026-10-26T12:05:26.895Z_
+_Generated: 2026-10-27T11:26:17.232Z_
 
 ### Expert tehnic – (part time)
 
