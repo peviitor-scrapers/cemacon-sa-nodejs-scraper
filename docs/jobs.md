@@ -10,18 +10,11 @@
 | Location | JUD. SĂLAJ, SAT RECEA COM. VÂRŞOLŢ, RECEA |
 | Website | [https://cemacon.ro](https://cemacon.ro) |
 | Careers | [https://cemacon.ro/cariere/](https://cemacon.ro/cariere/) |
-| Last Scraped | 2026-11-01 |
+| Last Scraped | 2026-11-02 |
 
-## Current Job Listings (10)
+## Current Job Listings (5)
 
-_Generated: 2026-11-01T12:31:53.474Z_
-
-### Expert tehnic – (part time)
-
-- **URL:** [https://cemacon.ro/cariere/expert-tehnic-part-time/](https://cemacon.ro/cariere/expert-tehnic-part-time/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
+_Generated: 2026-11-02T14:30:59.760Z_
 
 ### Product Manager – Bloc Ceramic
 
@@ -37,27 +30,6 @@ _Generated: 2026-11-01T12:31:53.474Z_
 - **Location:** Cluj-Napoca
 - **Status:** scraped
 
-### Coordonator echipa mecanica
-
-- **URL:** [https://cemacon.ro/cariere/coordonator-echipa-mecanica/](https://cemacon.ro/cariere/coordonator-echipa-mecanica/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Manager proiect achizitii de tehnologie
-
-- **URL:** [https://cemacon.ro/cariere/manager-proiect-achizitii-de-tehnologie/](https://cemacon.ro/cariere/manager-proiect-achizitii-de-tehnologie/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Inginer Tehnolog
-
-- **URL:** [https://cemacon.ro/cariere/inginer-tehnolog/](https://cemacon.ro/cariere/inginer-tehnolog/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
 ### Manager Mentenanță
 
 - **URL:** [https://cemacon.ro/cariere/manager-mentenanta/](https://cemacon.ro/cariere/manager-mentenanta/)
@@ -68,13 +40,6 @@ _Generated: 2026-11-01T12:31:53.474Z_
 ### Electrician productie
 
 - **URL:** [https://cemacon.ro/cariere/electrician-productie/](https://cemacon.ro/cariere/electrician-productie/)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Îngrijitor clădiri
-
-- **URL:** [https://cemacon.ro/cariere/ingrijitor-cladiri/](https://cemacon.ro/cariere/ingrijitor-cladiri/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Status:** scraped
