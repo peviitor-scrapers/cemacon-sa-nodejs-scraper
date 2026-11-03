@@ -10,11 +10,11 @@
 | Location | JUD. SĂLAJ, SAT RECEA COM. VÂRŞOLŢ, RECEA |
 | Website | [https://cemacon.ro](https://cemacon.ro) |
 | Careers | [https://cemacon.ro/cariere/](https://cemacon.ro/cariere/) |
-| Last Scraped | 2026-11-02 |
+| Last Scraped | 2026-11-03 |
 
 ## Current Job Listings (5)
 
-_Generated: 2026-11-02T14:30:59.760Z_
+_Generated: 2026-11-03T13:28:21.959Z_
 
 ### Product Manager – Bloc Ceramic
 
