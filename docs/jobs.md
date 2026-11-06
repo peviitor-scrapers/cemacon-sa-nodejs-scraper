@@ -10,11 +10,32 @@
 | Location | JUD. SĂLAJ, SAT RECEA COM. VÂRŞOLŢ, RECEA |
 | Website | [https://cemacon.ro](https://cemacon.ro) |
 | Careers | [https://cemacon.ro/cariere/](https://cemacon.ro/cariere/) |
-| Last Scraped | 2026-11-05 |
+| Last Scraped | 2026-11-06 |
 
-## Current Job Listings (5)
+## Current Job Listings (8)
 
-_Generated: 2026-11-05T13:51:32.395Z_
+_Generated: 2026-11-06T13:37:12.038Z_
+
+### Electrician Biharia
+
+- **URL:** [https://cemacon.ro/cariere/electrician-biharia/](https://cemacon.ro/cariere/electrician-biharia/)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### Stivuitorist – Cemacon Biharia
+
+- **URL:** [https://cemacon.ro/cariere/stivuitorist-cemacon-biharia/](https://cemacon.ro/cariere/stivuitorist-cemacon-biharia/)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### Coordonator echipă mecanică – Cemacon Biharia
+
+- **URL:** [https://cemacon.ro/cariere/coordonator-echipa-mecanica-cemacon-biharia/](https://cemacon.ro/cariere/coordonator-echipa-mecanica-cemacon-biharia/)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
 
 ### Product Manager – Bloc Ceramic
 
