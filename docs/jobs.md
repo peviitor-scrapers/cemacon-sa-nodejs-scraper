@@ -10,11 +10,11 @@
 | Location | JUD. SĂLAJ, SAT RECEA COM. VÂRŞOLŢ, RECEA |
 | Website | [https://cemacon.ro](https://cemacon.ro) |
 | Careers | [https://cemacon.ro/cariere/](https://cemacon.ro/cariere/) |
-| Last Scraped | 2026-11-23 |
+| Last Scraped | 2026-11-24 |
 
-## Current Job Listings (7)
+## Current Job Listings (9)
 
-_Generated: 2026-11-23T17:06:53.003Z_
+_Generated: 2026-11-24T16:51:48.786Z_
 
 ### Electrician Biharia
 
@@ -63,4 +63,16 @@ _Generated: 2026-11-23T17:06:53.003Z_
 - **URL:** [https://cemacon.ro/cariere/electrician-productie/](https://cemacon.ro/cariere/electrician-productie/)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### LUCRATOR GESTIONAR
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3455695](https://mediere.anofm.ro/app/module/mediere/job/3455695)
+- **Location:** România
+- **Status:** scraped
+
+### GESTIONAR DEPOZIT
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3455671](https://mediere.anofm.ro/app/module/mediere/job/3455671)
+- **Location:** România
 - **Status:** scraped
